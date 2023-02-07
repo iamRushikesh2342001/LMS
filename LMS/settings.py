@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cmap$+ara@#wfb=84l9kqsvm*$$wxyq8m385z4p_k@wgtypq=^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.lms-webapp1.azurewebsites.net','lms-webapp1.azurewebsites.net','127.0.0.1:8000','localhost']
+ALLOWED_HOSTS = ['www.lms-webapp1.azurewebsites.net']
 
 
 # Application definition
